@@ -1,14 +1,16 @@
-# Penvire client
+# Penvire clients
 
 > **Status:** early development, not ready for production use.
 
-User interfaces for Penvire.
+User-facing apps for Penvire.
 
 ## What goes here
 
-- The web UI
+- `apps/web`: React web UI
+- `apps/desktop`: Electron desktop app
+- `apps/ios`: iOS app
+- `apps/android`: Android app
 - The shared theme, including the login theme for the bundled Keycloak
-- Later: mobile clients
 
 ## Related
 
